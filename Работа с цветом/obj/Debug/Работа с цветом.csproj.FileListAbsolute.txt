@@ -1,0 +1,42 @@
+D:\Новая папка\Работа с цветом\Работа с цветом\bin\Debug\Работа с цветом.exe.config
+D:\Новая папка\Работа с цветом\Работа с цветом\bin\Debug\Работа с цветом.exe
+D:\Новая папка\Работа с цветом\Работа с цветом\bin\Debug\Работа с цветом.pdb
+D:\Новая папка\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csproj.AssemblyReference.cache
+D:\Новая папка\Работа с цветом\Работа с цветом\obj\Debug\Работа_с_цветом.Form1.resources
+D:\Новая папка\Работа с цветом\Работа с цветом\obj\Debug\Работа_с_цветом.Properties.Resources.resources
+D:\Новая папка\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csproj.GenerateResource.cache
+D:\Новая папка\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csproj.CoreCompileInputs.cache
+D:\Новая папка\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.exe
+D:\Новая папка\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.pdb
+D:\Новая папка\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\Desktop\Работа с цветом\Работа с цветом\bin\Debug\Работа с цветом.exe.config
+C:\Users\denis\Desktop\Работа с цветом\Работа с цветом\bin\Debug\Работа с цветом.exe
+C:\Users\denis\Desktop\Работа с цветом\Работа с цветом\bin\Debug\Работа с цветом.pdb
+C:\Users\denis\Desktop\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\Работа с цветом\Работа с цветом\obj\Debug\Работа_с_цветом.Form1.resources
+C:\Users\denis\Desktop\Работа с цветом\Работа с цветом\obj\Debug\Работа_с_цветом.Properties.Resources.resources
+C:\Users\denis\Desktop\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.exe
+C:\Users\denis\Desktop\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.pdb
+C:\Users\Ростислав\Downloads\Копия Работа с цветом\Работа с цветом\Работа с цветом\bin\Debug\Работа с цветом.exe.config
+C:\Users\Ростислав\Downloads\Копия Работа с цветом\Работа с цветом\Работа с цветом\bin\Debug\Работа с цветом.exe
+C:\Users\Ростислав\Downloads\Копия Работа с цветом\Работа с цветом\Работа с цветом\bin\Debug\Работа с цветом.pdb
+C:\Users\Ростислав\Downloads\Копия Работа с цветом\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csprojAssemblyReference.cache
+C:\Users\Ростислав\Downloads\Копия Работа с цветом\Работа с цветом\Работа с цветом\obj\Debug\Работа_с_цветом.Form1.resources
+C:\Users\Ростислав\Downloads\Копия Работа с цветом\Работа с цветом\Работа с цветом\obj\Debug\Работа_с_цветом.Properties.Resources.resources
+C:\Users\Ростислав\Downloads\Копия Работа с цветом\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csproj.GenerateResource.cache
+C:\Users\Ростислав\Downloads\Копия Работа с цветом\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csproj.CoreCompileInputs.cache
+C:\Users\Ростислав\Downloads\Копия Работа с цветом\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.exe
+C:\Users\Ростислав\Downloads\Копия Работа с цветом\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.pdb
+D:\Download\Google Drive\Работа с цветом\Работа с цветом\bin\Debug\Работа с цветом.exe.config
+D:\Download\Google Drive\Работа с цветом\Работа с цветом\bin\Debug\Работа с цветом.exe
+D:\Download\Google Drive\Работа с цветом\Работа с цветом\bin\Debug\Работа с цветом.pdb
+D:\Download\Google Drive\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csproj.AssemblyReference.cache
+D:\Download\Google Drive\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csproj.SuggestedBindingRedirects.cache
+D:\Download\Google Drive\Работа с цветом\Работа с цветом\obj\Debug\Работа_с_цветом.Form1.resources
+D:\Download\Google Drive\Работа с цветом\Работа с цветом\obj\Debug\Работа_с_цветом.Properties.Resources.resources
+D:\Download\Google Drive\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csproj.GenerateResource.cache
+D:\Download\Google Drive\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.csproj.CoreCompileInputs.cache
+D:\Download\Google Drive\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.exe
+D:\Download\Google Drive\Работа с цветом\Работа с цветом\obj\Debug\Работа с цветом.pdb
